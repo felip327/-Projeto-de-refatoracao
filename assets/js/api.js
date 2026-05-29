@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000/api';
+const BASE_URL = 'https://projeto-de-refatoracao-backend.vercel.app/api';
 
 // ─── UTILITÁRIOS ─────────────────────────────────────────────
 export function formatPrice(value) {
